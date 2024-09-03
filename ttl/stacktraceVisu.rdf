@@ -1,0 +1,649 @@
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "NioEndpoint$SocketProcessor" ;
+                  <lineNumber>  "1741" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.tomcat.util.net"
+                                ] ;
+                  <methodName>  "doRun"
+                ] ;
+  <lineNumber>  "1741" ;
+  <methodName>  "doRun"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "HttpServlet" ;
+                  <lineNumber>  "658" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "jakarta.servlet.http"
+                                ] ;
+                  <methodName>  "service"
+                ] ;
+  <lineNumber>  "658" ;
+  <methodName>  "service"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "FrameworkServlet" ;
+                  <lineNumber>  "1014" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.servlet"
+                                ] ;
+                  <methodName>  "processRequest"
+                ] ;
+  <lineNumber>  "1014" ;
+  <methodName>  "processRequest"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ApplicationFilterChain" ;
+                  <lineNumber>  "164" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "internalDoFilter"
+                ] ;
+  <lineNumber>  "164" ;
+  <methodName>  "internalDoFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "OncePerRequestFilter" ;
+                  <lineNumber>  "116" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.filter"
+                                ] ;
+                  <methodName>  "doFilter"
+                ] ;
+  <lineNumber>  "116" ;
+  <methodName>  "doFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "Thread" ;
+                  <lineNumber>  "2450" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "java.lang"
+                                ] ;
+                  <methodName>  "getStackTrace"
+                ] ;
+  <lineNumber>  "2450" ;
+  <methodName>  "getStackTrace"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "StandardEngineValve" ;
+                  <lineNumber>  "74" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "invoke"
+                ] ;
+  <lineNumber>  "74" ;
+  <methodName>  "invoke"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "AbstractProtocol$ConnectionHandler" ;
+                  <lineNumber>  "904" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.coyote"
+                                ] ;
+                  <methodName>  "process"
+                ] ;
+  <lineNumber>  "904" ;
+  <methodName>  "process"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ApplicationFilterChain" ;
+                  <lineNumber>  "164" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "internalDoFilter"
+                ] ;
+  <lineNumber>  "164" ;
+  <methodName>  "internalDoFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "DispatcherServlet" ;
+                  <lineNumber>  "979" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.servlet"
+                                ] ;
+                  <methodName>  "doService"
+                ] ;
+  <lineNumber>  "979" ;
+  <methodName>  "doService"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "Method" ;
+                  <lineNumber>  "580" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "java.lang.reflect"
+                                ] ;
+                  <methodName>  "invoke"
+                ] ;
+  <lineNumber>  "580" ;
+  <methodName>  "invoke"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "StandardContextValve" ;
+                  <lineNumber>  "90" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "invoke"
+                ] ;
+  <lineNumber>  "90" ;
+  <methodName>  "invoke"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "StandardWrapperValve" ;
+                  <lineNumber>  "167" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "invoke"
+                ] ;
+  <lineNumber>  "167" ;
+  <methodName>  "invoke"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "FrameworkServlet" ;
+                  <lineNumber>  "903" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.servlet"
+                                ] ;
+                  <methodName>  "doGet"
+                ] ;
+  <lineNumber>  "903" ;
+  <methodName>  "doGet"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "DispatcherServlet" ;
+                  <lineNumber>  "1089" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.servlet"
+                                ] ;
+                  <methodName>  "doDispatch"
+                ] ;
+  <lineNumber>  "1089" ;
+  <methodName>  "doDispatch"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ApplicationFilterChain" ;
+                  <lineNumber>  "140" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "doFilter"
+                ] ;
+  <lineNumber>  "140" ;
+  <methodName>  "doFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ApplicationFilterChain" ;
+                  <lineNumber>  "164" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "internalDoFilter"
+                ] ;
+  <lineNumber>  "164" ;
+  <methodName>  "internalDoFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ApplicationFilterChain" ;
+                  <lineNumber>  "140" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "doFilter"
+                ] ;
+  <lineNumber>  "140" ;
+  <methodName>  "doFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "FrameworkServlet" ;
+                  <lineNumber>  "885" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.servlet"
+                                ] ;
+                  <methodName>  "service"
+                ] ;
+  <lineNumber>  "885" ;
+  <methodName>  "service"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ApplicationFilterChain" ;
+                  <lineNumber>  "140" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "doFilter"
+                ] ;
+  <lineNumber>  "140" ;
+  <methodName>  "doFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ApplicationFilterChain" ;
+                  <lineNumber>  "195" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "internalDoFilter"
+                ] ;
+  <lineNumber>  "195" ;
+  <methodName>  "internalDoFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "WsFilter" ;
+                  <lineNumber>  "51" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.tomcat.websocket.server"
+                                ] ;
+                  <methodName>  "doFilter"
+                ] ;
+  <lineNumber>  "51" ;
+  <methodName>  "doFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "OncePerRequestFilter" ;
+                  <lineNumber>  "116" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.filter"
+                                ] ;
+                  <methodName>  "doFilter"
+                ] ;
+  <lineNumber>  "116" ;
+  <methodName>  "doFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "RDFGraphController" ;
+                  <lineNumber>  "60" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "com.graph.rdfdemo"
+                                ] ;
+                  <methodName>  "loadGraph"
+                ] ;
+  <lineNumber>  "60" ;
+  <methodName>  "loadGraph"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "RequestContextFilter" ;
+                  <lineNumber>  "100" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.filter"
+                                ] ;
+                  <methodName>  "doFilterInternal"
+                ] ;
+  <lineNumber>  "100" ;
+  <methodName>  "doFilterInternal"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ServletInvocableHandlerMethod" ;
+                  <lineNumber>  "118" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.servlet.mvc.method.annotation"
+                                ] ;
+                  <methodName>  "invokeAndHandle"
+                ] ;
+  <lineNumber>  "118" ;
+  <methodName>  "invokeAndHandle"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "DirectMethodHandleAccessor" ;
+                  <lineNumber>  "103" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "jdk.internal.reflect"
+                                ] ;
+                  <methodName>  "invoke"
+                ] ;
+  <lineNumber>  "103" ;
+  <methodName>  "invoke"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ApplicationFilterChain" ;
+                  <lineNumber>  "140" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "doFilter"
+                ] ;
+  <lineNumber>  "140" ;
+  <methodName>  "doFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "StandardHostValve" ;
+                  <lineNumber>  "115" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "invoke"
+                ] ;
+  <lineNumber>  "115" ;
+  <methodName>  "invoke"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "TaskThread$WrappingRunnable" ;
+                  <lineNumber>  "63" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.tomcat.util.threads"
+                                ] ;
+                  <methodName>  "run"
+                ] ;
+  <lineNumber>  "63" ;
+  <methodName>  "run"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "InvocableHandlerMethod" ;
+                  <lineNumber>  "255" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.method.support"
+                                ] ;
+                  <methodName>  "doInvoke"
+                ] ;
+  <lineNumber>  "255" ;
+  <methodName>  "doInvoke"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ApplicationFilterChain" ;
+                  <lineNumber>  "164" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "internalDoFilter"
+                ] ;
+  <lineNumber>  "164" ;
+  <methodName>  "internalDoFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "Http11Processor" ;
+                  <lineNumber>  "389" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.coyote.http11"
+                                ] ;
+                  <methodName>  "service"
+                ] ;
+  <lineNumber>  "389" ;
+  <methodName>  "service"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "CoyoteAdapter" ;
+                  <lineNumber>  "344" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.connector"
+                                ] ;
+                  <methodName>  "service"
+                ] ;
+  <lineNumber>  "344" ;
+  <methodName>  "service"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "FormContentFilter" ;
+                  <lineNumber>  "93" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.filter"
+                                ] ;
+                  <methodName>  "doFilterInternal"
+                ] ;
+  <lineNumber>  "93" ;
+  <methodName>  "doFilterInternal"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "RequestMappingHandlerAdapter" ;
+                  <lineNumber>  "831" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.servlet.mvc.method.annotation"
+                                ] ;
+                  <methodName>  "handleInternal"
+                ] ;
+  <lineNumber>  "831" ;
+  <methodName>  "handleInternal"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "OncePerRequestFilter" ;
+                  <lineNumber>  "116" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.filter"
+                                ] ;
+                  <methodName>  "doFilter"
+                ] ;
+  <lineNumber>  "116" ;
+  <methodName>  "doFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ThreadPoolExecutor" ;
+                  <lineNumber>  "1190" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.tomcat.util.threads"
+                                ] ;
+                  <methodName>  "runWorker"
+                ] ;
+  <lineNumber>  "1190" ;
+  <methodName>  "runWorker"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "RequestMappingHandlerAdapter" ;
+                  <lineNumber>  "926" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.servlet.mvc.method.annotation"
+                                ] ;
+                  <methodName>  "invokeHandlerMethod"
+                ] ;
+  <lineNumber>  "926" ;
+  <methodName>  "invokeHandlerMethod"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "InvocableHandlerMethod" ;
+                  <lineNumber>  "188" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.method.support"
+                                ] ;
+                  <methodName>  "invokeForRequest"
+                ] ;
+  <lineNumber>  "188" ;
+  <methodName>  "invokeForRequest"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "AuthenticatorBase" ;
+                  <lineNumber>  "483" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.authenticator"
+                                ] ;
+                  <methodName>  "invoke"
+                ] ;
+  <lineNumber>  "483" ;
+  <methodName>  "invoke"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ApplicationFilterChain" ;
+                  <lineNumber>  "140" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.core"
+                                ] ;
+                  <methodName>  "doFilter"
+                ] ;
+  <lineNumber>  "140" ;
+  <methodName>  "doFilter"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ErrorReportValve" ;
+                  <lineNumber>  "93" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.catalina.valves"
+                                ] ;
+                  <methodName>  "invoke"
+                ] ;
+  <lineNumber>  "93" ;
+  <methodName>  "invoke"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "Thread" ;
+                  <lineNumber>  "1583" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "java.lang"
+                                ] ;
+                  <methodName>  "run"
+                ] ;
+  <lineNumber>  "1583" ;
+  <methodName>  "run"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "HttpServlet" ;
+                  <lineNumber>  "564" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "jakarta.servlet.http"
+                                ] ;
+                  <methodName>  "service"
+                ] ;
+  <lineNumber>  "564" ;
+  <methodName>  "service"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "SocketProcessorBase" ;
+                  <lineNumber>  "52" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.tomcat.util.net"
+                                ] ;
+                  <methodName>  "run"
+                ] ;
+  <lineNumber>  "52" ;
+  <methodName>  "run"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "AbstractHandlerMethodAdapter" ;
+                  <lineNumber>  "87" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.servlet.mvc.method"
+                                ] ;
+                  <methodName>  "handle"
+                ] ;
+  <lineNumber>  "87" ;
+  <methodName>  "handle"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "ThreadPoolExecutor$Worker" ;
+                  <lineNumber>  "659" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.tomcat.util.threads"
+                                ] ;
+                  <methodName>  "run"
+                ] ;
+  <lineNumber>  "659" ;
+  <methodName>  "run"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "AbstractProcessorLight" ;
+                  <lineNumber>  "63" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.apache.coyote"
+                                ] ;
+                  <methodName>  "process"
+                ] ;
+  <lineNumber>  "63" ;
+  <methodName>  "process"
+] .
+
+[ a             "Method" ;
+  <belongsTo>   [ a             "Class" ;
+                  <className>   "CharacterEncodingFilter" ;
+                  <lineNumber>  "201" ;
+                  <memberOf>    [ a            "Component" ;
+                                  <Component>  "org.springframework.web.filter"
+                                ] ;
+                  <methodName>  "doFilterInternal"
+                ] ;
+  <lineNumber>  "201" ;
+  <methodName>  "doFilterInternal"
+] .
